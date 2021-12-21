@@ -1,8 +1,7 @@
 {
-"user" :{
-  
+"user" :{ 
   "id": 1,
   "firstName": "Kweku",
   "LastName": "Awotwe"
-  
+}
 }
